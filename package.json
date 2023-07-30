@@ -1,0 +1,16 @@
+{
+  "name": "node-symspell-api",
+  "version": "1.0.0",
+  "description": "Web API wrapper for node-symspell",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pjbollinger <owner@pjbollinger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-symspell": "^0.1.0"
+  }
+}
